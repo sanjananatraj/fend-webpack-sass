@@ -14,8 +14,12 @@
   "description": "",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "call-bind": "^1.0.2",
     "cors": "^2.8.5",
+    "entities": "^1.1.2",
     "express": "^4.17.1",
+    "get-intrinsic": "^1.1.1",
+    "json-entity": "^0.4.3",
     "webpack": "^4.35.3",
     "webpack-cli": "^3.3.5"
   },
